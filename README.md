@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/charles-andré.goichot/">Ewan</a> 👋</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/charles-andré.goichot/">Charles-André</a> 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
 👨‍🎓 Blockchain Engineering Student at ESILV Paris <br>🥇 Hackaton Participant & Web3 Builder <br> 🏦 Deblock Ambassador
