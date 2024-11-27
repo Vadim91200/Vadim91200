@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://www.linkedin.com/in/charles-andré.goichot/">Charles-André</a> 👋</h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/charles-andré-goichot/">Charles-André</a> 👋</h1>
 
 <h2>👨‍💻 About Me</h2>
 👨‍🎓 Blockchain Engineering Student at ESILV Paris <br>🥇 Hackaton Participant & Web3 Builder <br> 🏦 Deblock Ambassador
@@ -27,6 +27,6 @@
 
 | App | Link |
 | --- | --- |
-| LinkedIn | [Charles-André GOICHOT](https://www.linkedin.com/in/charles-andré.goichot/) |
+| LinkedIn | [Charles-André GOICHOT](https://www.linkedin.com/in/charles-andré-goichot/) |
 | X (Twitter) | [@vadim91200](https://twitter.com/vadim91200) |
 | Telegram | [@vadim91200](https://t.me/vadim91200) |
